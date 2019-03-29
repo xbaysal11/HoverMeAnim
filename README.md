@@ -33,7 +33,7 @@ $ yarn add --dev @fortawesome/fontawesome-free
  - [Download files](https://github.com/xbaysal11/HoverMeAnim/archive/master.zip).
 
 
-## 3. Connecting css "hoverMeAnim.css"
+## 3. Connecting css "hoverMeAnim.min.css"
 ```sh
 <link rel="stylesheet" href="hoverMeAnim.min.css">
 ```
