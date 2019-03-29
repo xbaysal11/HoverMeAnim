@@ -35,7 +35,7 @@ $ yarn add --dev @fortawesome/fontawesome-free
 
 ## 3. Connecting css "hoverMeAnim.css"
 ```sh
-<link rel="stylesheet" href="hoverMeAnim.css">
+<link rel="stylesheet" href="hoverMeAnim.min.css">
 ```
 
 
